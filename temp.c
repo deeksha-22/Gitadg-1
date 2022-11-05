@@ -2,5 +2,6 @@
 int main()
 {
 
-    print("My name is deeksha") return 0;
+    printf("My name is deeksha");
+    return 0;
 }
